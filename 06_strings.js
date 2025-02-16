@@ -89,7 +89,7 @@ console.log(word.split('-', 2)); // 2 is the limit which is the length of the ar
 const arr = word.split('-')
 console.log(arr[2]);  
 console.log("study about more methods on MDN")
-
+console.log("hello");
 
 
 
