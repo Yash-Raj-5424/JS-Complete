@@ -87,7 +87,8 @@ console.log(word.split('-'));
 console.log(word.split('-', 2)); // 2 is the limit which is the length of the array to be returned
 
 const arr = word.split('-')
-console.log(arr[2]); 
+console.log(arr[2]);  
+
 
 
 
