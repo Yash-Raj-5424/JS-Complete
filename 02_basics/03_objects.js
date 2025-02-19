@@ -6,7 +6,7 @@
 const mySym = Symbol("key1")
 const sym2 = Symbol("key2")
 
-const user = { 
+const user = {  // this is an object literal
     name : "yash", //  here the key name is treated as "name"
     2: "raj", // here also, the key 2 is treated as a string i.e, "2"
     "full name": "Yash Raj",
