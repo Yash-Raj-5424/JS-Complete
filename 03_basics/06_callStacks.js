@@ -20,3 +20,12 @@
 // 1. Memory phase 
 // 2. Execution phase 
 // The return value of the 'Function Execution' context is passed to the Global Execution Context
+
+let a = 23
+const b = 11
+function addNum(value1, value2){
+    return value1 + value2
+}
+addNum(a, b)
+addNum(11, 54)
+console.log(addNum(21, 56));
